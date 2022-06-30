@@ -1,4 +1,4 @@
-class LamaScrollEvent {
+class LamaScrollEventListener {
 
     static eventTimeout = 500;
     static isEventInProgress = false;
